@@ -1,2 +1,2 @@
-# Bootcamp-Data-Scientist-
-Bootcamp - Cientista de Dados (concluído pelo IGTI) / Data Scientist
+# Bootcamp-Data-Scientist
+Bootcamp - Cientista de Dados (by IGTI) / Data Scientist
