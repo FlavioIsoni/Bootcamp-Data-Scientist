@@ -1,4 +1,4 @@
-# Bootcamp-Data-Scientist / Cientista de Dados (by IGTI)
+# Bootcamp - Data Scientist / Cientista de Dados (by IGTI)
 
 [![](https://github.com/masedos/Bootcamp-Cientista-de-Dados/blob/master/logo.png)](https://www.linkedin.com/in/masedos/)
 
