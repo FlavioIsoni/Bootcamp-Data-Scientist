@@ -7,7 +7,7 @@
 bootcamp: [https://www.igti.com.br/custom/bootcamp-cientista-de-dados/](https://www.igti.com.br/custom/bootcamp-cientista-de-dados/)
 </br></br>
 
-Este bootcamp da [IGTI](https://www.igti.com.br/) teve como objetivo abordar de forma intensiva conceitos e práticas da Ciência de Dados e, através de desafios semanais, evolutivos em complexidade e abrangência, habilitar os alunos para a atuação profissional na área.</br>
+Este bootcamp da [IGTI](https://www.igti.com.br/) teve por objetivo abordar de forma intensiva os conceitos e as práticas para a construção do pipeline da Ciência de Dados de forma a habilitar os participantes para o desenvolvimento de aplicações que utilizem os seus principais algoritmos e ferramentas, decifrando o comportamento dos dados para encontrar os insights que podem transformar as organizações. Foram desenvolvidos desafios semanais evolutivos em complexidade e abrangência visando habilitar os participantes, de forma prática, para a atuação profissional na área.</br>
 
 
 ## Conteúdo do bootcamp
