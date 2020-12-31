@@ -6,7 +6,7 @@ Bootcamp - Cientista de Dados (by IGTI) / Data Scientist
 [![](https://img.shields.io/badge/made%20by-masedos-blue)](https://www.linkedin.com/in/masedos/)
 ![GitHub repo size](https://img.shields.io/badge/-Ci%C3%AAncia%20de%20Dados-blue)
 
-`Certificado:` [Acesse aqui](https://github.com/masedos/Bootcamp-Cientista-de-Dados/blob/master/Fernandes%20Macedo%20RibeiroBootcamp%20Cientista%20de%20Dados.pdf)
+`Certificado:` [Acesse aqui](https://github.com/FlavioIsoni/Bootcamp-Data-Scientist/blob/main/Flavio%20Isoni%20-%20Certificate%20-%20Data%20Scientist.pdf)
 </br></br>
 `Duração:` 2 meses, 148 horas
 </br></br>
