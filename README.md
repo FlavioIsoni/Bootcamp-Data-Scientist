@@ -1,16 +1,20 @@
 [![](https://github.com/FlavioIsoni/Bootcamp-Data-Scientist/blob/main/Logo_DS.png)](https://www.linkedin.com/in/flavioisoni/)
 
-`Certificado:` [Acesse aqui](https://github.com/FlavioIsoni/Bootcamp-Data-Scientist/blob/main/Flavio%20Isoni%20-%20Certificate%20-%20Data%20Scientist.pdf)
+`Certificate \ Certificado:` [Click here \ Acesse aqui](https://github.com/FlavioIsoni/Bootcamp-Data-Scientist/blob/main/Flavio%20Isoni%20-%20Certificate%20-%20Data%20Scientist.pdf)
 </br></br>
-`Duração:` 2 meses, 148 horas
+`Duration \ Duração:`  2 months, 148 hours \ 2 meses, 148 horas
 </br></br>
 bootcamp: [https://www.igti.com.br/custom/bootcamp-cientista-de-dados/](https://www.igti.com.br/custom/bootcamp-cientista-de-dados/)
 </br></br>
 
+This bootcamp offered by [IGTI](https://www.igti.com.br/), targeted to intensively approach the concepts and practices for the construction of the Data Science pipeline in order to enable participants to develop applications that use DS main algorithms and tools, deciphering the behavior of data in order to search insights that can transform organizations. Weekly evolutionary challenges in complexity and scope were developed in order to enable participants, in a practical way, to perform professionally on the area.
+
 Este bootcamp da [IGTI](https://www.igti.com.br/) teve por objetivo abordar de forma intensiva os conceitos e as práticas para a construção do pipeline da Ciência de Dados de forma a habilitar os participantes para o desenvolvimento de aplicações que utilizem os seus principais algoritmos e ferramentas, decifrando o comportamento dos dados na busca por  insights que podem transformar as organizações. Foram desenvolvidos desafios semanais evolutivos em complexidade e abrangência visando habilitar os participantes, de forma prática, para a atuação profissional na área.</br>
 
 
-## Conteúdo do bootcamp
+## Bootcamp contents \ Conteúdo do bootcamp
+
+Using the below links, one can check the practical study / work materials and challenges I´ve developed on each module at the bootcamp:
 
 Nos links abaixo de cada módulo disponibilizo materiais de trabalhos práticos e desafios estudados no bootcamp:
 
