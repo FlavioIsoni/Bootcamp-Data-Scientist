@@ -24,6 +24,6 @@ Nos links abaixo de cada módulo disponibilizo materiais de trabalhos práticos 
 |Warm-up & Rules \ Aquecimento e Regras do Jogo |Fundamentals \ Fundamentos|Data Extraction \ Coleta e obtenção de dados|Data processing with Hadoop Ecossytem \ Processamento de dados utilizando o ecossistema Hadoop |Big Data Processing Tools \ Técnicas para o processamento do Big Data|Final Challenge \ Desafio Final|
 |Course overview, contents and tools \ Visão geral da dinâmica do curso, conteúdos e ferramentas utilizadas.|Apply DS pipeline for data analysis insights \ Aplicar o pipeline da Ciência de Dados para obter Insights sobre uma porção do banco de dados.|Apply a Crawler and API on historical collected data and streaming data \ Aplicar um crawler ou utilizar uma API para coleta de dados históricos ou em streaming.|Apply data analysis processing with Hadoop ecossystem \ Aplicar no sistema de análise de dados o processamento utilizando o ecossistema Hadoop.|Apply ML to data classification, clustering and regression \ Aplicar algoritmos de Machine Learning para realizar a classificação, clusterização e regressão na base de dados.|Conclusions on the final challenge \ Conclusão da aplicação final.|
 
-## Trilha do bootcamp
+## Bootcamp trail \ Trilha do bootcamp
 
 [![](https://github.com/masedos/Bootcamp-Cientista-de-Dados/blob/master/Trilha%20Cientista%20de%20Dados.png)](https://www.linkedin.com/in/masedos/)
